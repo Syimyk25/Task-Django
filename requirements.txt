@@ -1,0 +1,4 @@
+django==4.0.6
+djangorestframework==3.13.1
+psycopg2-binary
+pygments==2.5.2
